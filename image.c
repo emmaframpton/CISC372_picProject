@@ -97,7 +97,7 @@ void *convoluteThreads(void *args)
         end = srcImage->height;
     }
     span = srcImage->bpp * srcImage->bpp;
-  // use threads here
+  // use threads here 
     int i;
     for (i = start; i < end; i++){
         for (pix = 0; pix < srcImage->width; pix++){

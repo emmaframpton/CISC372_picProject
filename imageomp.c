@@ -70,7 +70,7 @@ void convolute(Image* srcImage,Image* destImage,Matrix algorithm){
     }
 }
 
-//Usage: Prints usage information for the program
+//Usage: Prints usage information for the program 
 //Returns: -1
 int Usage(){
     printf("Usage: image <filename> <type>\n\twhere type is one of (edge,sharpen,blur,gauss,emboss,identity)\n");
