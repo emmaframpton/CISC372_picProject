@@ -1,0 +1,13 @@
+Script started on Thu Nov  9 13:28:35 2023
+^[]0;eframpt@r1n23.darwin:~/CISC372_picProject^G^[[?1034h[eframpt@r1n23 CISC372_picProject]$ exit^H^H^H^Hsrun ./i$^[]0;eframpt@r1n23.darwin:~/CISC372_picProject^G[eframpt@r1n23 CISC372_picProject]$ vpkg_require gcc^H^H^H^H^H^H^$salloc: Granted job allocation 4827727
+salloc: Waiting for resource configuration
+salloc: Nodes r1n23 are ready for job
+^[]0;eframpt@r1n23.darwin:~/CISC372_picProject^G^[[?1034h[eframpt@r1n23 CISC372_picProject]$ exit^H^H^H^Hsrun ./i$^[]0;eframpt@r1n23.darwin:~/CISC372_picProject^G[eframpt@r1n23 CISC372_picProject]$ export OMP_NUM_THREADS=$SLURM$make: `imageomp' is up to date.^M
+^[]0;eframpt@r1n23.darwin:~/CISC372_picProject^G[eframpt@r1n23 CISC372_picProject]$ make imageomp^H^H^H^H^H^H^H^H$Took 6 seconds^M
+^[]0;eframpt@r1n23.darwin:~/CISC372_picProject^G[eframpt@r1n23 CISC372_picProject]$ exit^M
+logout^M
+salloc: Relinquishing job allocation 4827727
+^[]0;eframpt@r1n23.darwin:~/CISC372_picProject^G[eframpt@r1n23 CISC372_picProject]$ exit
+exit
+
+Script done on Thu Nov  9 13:30:25 2023
